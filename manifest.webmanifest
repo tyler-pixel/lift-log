@@ -1,0 +1,1 @@
+{"name":"Lift Log","short_name":"Lift Log","start_url":"/lift-log/","display":"standalone","background_color":"#0f1115","lang":"en","scope":"/lift-log/","description":"Offline workout logger — log sets, see volume, never lose data.","theme_color":"#0f1115","orientation":"portrait","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
